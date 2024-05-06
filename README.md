@@ -1,1 +1,3 @@
-# python-visualization-
+# Data Visualization using python libraries 
+- Matplotlib
+- Seaborn
